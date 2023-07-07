@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tallycounter/static/css/main.468a4a73.css",
+    "main.js": "/tallycounter/static/js/main.76e78555.js",
+    "index.html": "/tallycounter/index.html",
+    "main.468a4a73.css.map": "/tallycounter/static/css/main.468a4a73.css.map",
+    "main.76e78555.js.map": "/tallycounter/static/js/main.76e78555.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.468a4a73.css",
+    "static/js/main.76e78555.js"
+  ]
+}
